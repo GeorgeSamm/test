@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello World
 hi George
+=======
+Hello World
+hi George
+>>>>>>> changeSite
